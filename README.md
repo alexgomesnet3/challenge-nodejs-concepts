@@ -1,5 +1,5 @@
 
-## GoStack Rocketseat - Challenge 02 - Concepts of the Node.js
+## GoStack Rocketseat - Challenge 02 - Concepts of the Node.js:
 
 <p align="center">
   <img src="src/assets/img/gostack_desafio_02.png" alt="Challenge 02 - GoStack RocketSeat" width="1280">
@@ -8,16 +8,16 @@
 Below is the link to the Skylab course platform, where this project is part of the GoStack Rocketseat.
 https://skylab.rocketseat.com.br/
 
-### Node.JS API application - Express
+### Node.JS API application - Using Express:
 
-### Installation
+### Installation:
 
-This is a [Node.js](https://nodejs.org/en/) project challenge with uses Express.js. For install this project use next steps:
+This is a [Node.js](https://nodejs.org/en/) project challenge with uses Express.js. For install this project after clone, use next steps:
 
 ```bash
 $ yarn
 ```
-### Run Aplication
+### Run Aplication:
 
 After complete instalation, run the aplication with command:
 
@@ -38,11 +38,11 @@ View this aplication at: http://localhost:3333
   <img src="src/assets/img/insomnia_challenge_02_nodejs.png" alt="Insomnia Challenge 02 - GoStack RocketSeat" width="1280">
 </p>
 
-### Contact the Developer
+### Contact the Developer:
 
   https://www.linkedin.com/in/alexgomesnet/
 
-### License
+### License:
 
   [MIT](LICENSE)
 
