@@ -8,16 +8,16 @@
 Below is the link to the Skylab course platform, where this project is part of the GoStack Rocketseat.
 https://skylab.rocketseat.com.br/
 
-### Node.JS API application - Using Express:
+### Application developed with Node.js, using Express:
 
-### Installation:
+### To install the application:
 
 This is a [Node.js](https://nodejs.org/en/) project challenge with uses Express.js. For install this project after clone, use next steps:
 
 ```bash
 $ yarn
 ```
-### Run Aplication:
+### To run the application:
 
 After complete instalation, run the aplication with command:
 
@@ -26,19 +26,19 @@ $ yarn dev
 ```
 View this aplication at: http://localhost:3333
 
-### A View the partial code aplication:
+### A partial view of the application code in Visual Studio Code::
 
 <p align="center">
   <img src="src/assets/img/visual_code_challenge_02_nodejs.png" alt="Code Challenge 02 - GoStack RocketSeat" width="1280">
 </p>
 
-### A View the partial routes in Insomnia Enviromment:
+### A partial view of the application's routes in the Insomnia environment::
 
 <p align="center">
   <img src="src/assets/img/insomnia_challenge_02_nodejs.png" alt="Insomnia Challenge 02 - GoStack RocketSeat" width="1280">
 </p>
 
-### Contact the Developer:
+### Learn more about this developer. Hire my services!
 
   https://www.linkedin.com/in/alexgomesnet/
 
