@@ -38,7 +38,7 @@ View this aplication at: http://localhost:3333
   <img src="src/assets/img/insomnia_challenge_02_nodejs.png" alt="Insomnia Challenge 02 - GoStack RocketSeat" width="1280">
 </p>
 
-### Learn more about this developer. Hire my services!
+### Learn more about me. Hire!
 
   https://www.linkedin.com/in/alexgomesnet/
 
