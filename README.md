@@ -12,7 +12,7 @@ https://skylab.rocketseat.com.br/
 
 ### To install the application:
 
-This is a [Node.js](https://nodejs.org/en/) project challenge with uses Express.js. For install this project after clone, use next steps:
+This is a [Node.js](https://nodejs.org/en/) project challenge that uses Express.js. For install this project after clone, use next steps:
 
 ```bash
 $ yarn
